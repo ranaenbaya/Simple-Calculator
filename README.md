@@ -1,1 +1,1 @@
-# My first project on GitHub
+# simple calculator
